@@ -1,4 +1,5 @@
-![AI Crypto trading bot](https://github.com/user-attachments/assets/82df8fa9-6b87-4473-94a9-afa69df592fd)
+![AI Crypto trading bot](https://github.com/user-attachments/assets/88ac1b80-9230-4718-a9f2-3ea5fdf583eb)
+
 The Smart AI Crypto Trading Bot is an advanced software solution designed to automate cryptocurrency trading by leveraging artificial intelligence and machine learning technologies. This sophisticated trading bot performs comprehensive market analysis, including historical data assessment, real-time market trends, and sentiment analysis from various news and social media sources. By integrating these diverse data streams, the bot generates precise trading signals, indicating the optimal times to buy or sell specific cryptocurrencies.
 
 One of the standout features of the Smart AI Crypto Trading Bot is its ability to adapt to the ever-changing market conditions. It continuously learns from market data, refining its algorithms to improve trading accuracy over time. This adaptive learning mechanism ensures that the bot remains effective even as market dynamics evolve.
